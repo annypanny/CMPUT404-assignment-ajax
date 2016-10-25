@@ -12,4 +12,7 @@ Contributors / Licensing
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
+-------
+use https://www.paulirish.com/2009/random-hex-color-code-snippets/ function to get random color
+
 
